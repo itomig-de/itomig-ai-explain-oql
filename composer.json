@@ -1,0 +1,15 @@
+{
+    "name": "itomig-dw/itomig-ai-explain-oql",
+    "autoload": {
+        "psr-4": {
+            "ItomigDw\\ItomigAiExplainOql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "davidwißen",
+            "email": "david.wissen@itomig.de"
+        }
+    ],
+    "require": {}
+}
