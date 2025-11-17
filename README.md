@@ -42,7 +42,7 @@ When a setting is omitted the helper falls back to its built-in defaults (`src/H
 - Hooks that must always be loaded are listed in [`module.itomig-ai-explain-oql.php`](module.itomig-ai-explain-oql.php:25), matching the ITOMIG extension guidelines.
 - Composer’s PSR-4 autoloader is already configured (`composer.json`). Run `composer dump-autoload -o` after adding new classes under `src/`.
 - Translations for the popup action live in `en.dict.itomig-ai-explain-oql.php` and `de.dict.itomig-ai-explain-oql.php`. iTop discovers these automatically during compilation.
-- For an in-depth walkthrough on building your own AI-enabled iTop module using the shared base component, follow the public tutorial: [Implementing iTop AI extensions with itomig-ai-base](https://wiki.itomig.de/itomig-code/itomig-ai-base/tutorial-ai-extension-implementation).
+- For an in-depth walkthrough on building your own AI-enabled iTop module using the shared base component, follow the public tutorial: [Tutorial implement your own iTop AI Extension - EN (PDF)](tutorial_implement_your_own_itop_ai_extension-EN.pdf).
 
 ## License
 Distributed under the terms of the GNU Affero General Public License v3.0.
